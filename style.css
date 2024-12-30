@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('../img/se.jpg'); /* Reemplaza con la ruta de tu imagen */
+  background-image: url('../se.jpg'); /* Reemplaza con la ruta de tu imagen */
   background-size: cover; /* Ajusta la imagen para que cubra toda la pantalla */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
   background-attachment: fixed; /* Fija la imagen al fondo al hacer scroll */
@@ -100,19 +100,19 @@ nav span {
 /* Imagen de fondo para cada imagen */
 
 .t1 {
-  background-image: url('../img/Background\ 02\ Servicios.jpg');
+  background-image: url('../Background\ 02\ Servicios.jpg');
 }
 
 .t2 {
-  background-image: url('../img/Background\ 01\ Acerca\ de\ Nosotros.jpg');
+  background-image: url('../Background\ 01\ Acerca\ de\ Nosotros.jpg');
 }
 
 .t3 {
-  background-image: url('../img/Background\ 03\ Ideales.jpg');
+  background-image: url('../Background\ 03\ Ideales.jpg');
 }
 
 .t4 {
-  background-image: url('../img/Background\ 04\ Contactanos.jpg');
+  background-image: url('../Background\ 04\ Contactanos.jpg');
 }
 
 /* Estilo de cada Titulo o Encabezado */
